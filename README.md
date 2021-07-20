@@ -1,4 +1,4 @@
-# Library v2021/4/12 - 真心覺得fork太難整理了，乾脆直接壓起來備份
+# Library v2021/7/20 - 真心覺得fork太難整理了，乾脆直接壓起來備份
 
 ## [Love2D - LÖVE套件](https://love2d.org/)
 - [hump - 場景移動 (Camera)](https://github.com/vrld/hump)
@@ -8,6 +8,7 @@
 
 ## [eBook - 一些電子書](https://www.books.com.tw/)
 - [中文版 Apple 官方 Swift 教程](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
+- [《Flutter實戰》電子書](https://book.flutterchina.club/)
 
 ## [iOS Framework](https://cocoapods.org/)
 - [CollectionViewCompositionalLayout for iOS12以前](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)
